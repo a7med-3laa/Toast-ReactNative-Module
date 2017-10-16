@@ -1,0 +1,4 @@
+#Mon Oct 16 16:13:11 EET 2017
+base.0=C\:\\Users\\ahmed\\Desktop\\react Toast\\to\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\ahmed\\Desktop\\react Toast\\to\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
